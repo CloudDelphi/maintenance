@@ -1,0 +1,12 @@
+{
+    "name": "mbonaldo/maintenance",
+    "description": "Handle Maintenance page",
+    "authors": [
+        {
+            "name": "Mauro Bonaldo",
+            "email": "mbonaldo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
