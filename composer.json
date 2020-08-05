@@ -1,5 +1,5 @@
 {
-    "name": "CloudDelphi/maintenance",
+    "name": "mbonaldo/maintenance",
     "description": "Handle Maintenance page",
     "keywords": ["laravel", "maintenance"],
     "license": "MIT",
