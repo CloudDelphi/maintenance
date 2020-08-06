@@ -14,7 +14,7 @@
 			   },
     "autoload": {
         "psr-4": {
-            "MBonaldo\\Console\\": ""
+            "MBonaldo\\": "src/"
         }
     },	
     "minimum-stability": "dev",
