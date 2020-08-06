@@ -1,8 +1,8 @@
 ## Laravel Maintenance
-[![Latest Stable Version](https://poser.pugx.org/phpunit/phpunit/v)](//packagist.org/packages/phpunit/phpunit) 
-[![Total Downloads](https://poser.pugx.org/phpunit/phpunit/downloads)](//packagist.org/packages/phpunit/phpunit) 
-[![Latest Unstable Version](https://poser.pugx.org/phpunit/phpunit/v/unstable)](//packagist.org/packages/phpunit/phpunit) 
-[![License](https://poser.pugx.org/phpunit/phpunit/license)](//packagist.org/packages/phpunit/phpunit)
+[![Latest Stable Version](https://poser.pugx.org/mbonaldo/maintenance/v)](//packagist.org/packages/mbonaldo/maintenance) 
+[![Total Downloads](https://poser.pugx.org/mbonaldo/maintenance/downloads)](//packagist.org/packages/mbonaldo/maintenance) 
+[![Latest Unstable Version](https://poser.pugx.org/mbonaldo/maintenance/v/unstable)](//packagist.org/packages/mbonaldo/maintenance) 
+[![License](https://poser.pugx.org/mbonaldo/maintenance/license)](//packagist.org/packages/mbonaldo/maintenance)
 
 ## Installation
 
