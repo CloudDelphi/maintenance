@@ -1,18 +1,18 @@
 <?php
 
-namespace MBonaldo\Console\Maintenance;
+namespace MBonaldo\Maintenance\Commands;
 
 use Exception;
 use Illuminate\Console\Command;
 
-class MaintenanceOffCommand extends Command
+class MaintenanceOff extends Command
 {
     /**
      * The console command name.
      *
      * @var string
      */
-    protected $name = 'MaintenanceOff';
+    protected $name = 'maintenance:off';
 
     /**
      * The console command description.

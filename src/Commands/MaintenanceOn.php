@@ -1,12 +1,12 @@
 <?php
 
-namespace MBonaldo\Console\Maintenance;
+namespace MBonaldo\Maintenance\Commands;
 
 use Exception;
 use Illuminate\Console\Command;
 use Illuminate\Support\InteractsWithTime;
 
-class MaintenanceOnCommand extends Command
+class MaintenanceOn extends Command
 {
     use InteractsWithTime;
 
@@ -15,7 +15,7 @@ class MaintenanceOnCommand extends Command
      *
      * @var string
      */
-    protected $signature = 'MaintenanceOn 	{--message= : The message for the maintenance mode}
+    protected $signature = 'maintenance:on 	{--message= : The message for the maintenance mode}
 											{--retry= : The number of seconds after which the request may be retried}
 											{--allow=* : IP or networks allowed to access the application while in maintenance mode}';
 
